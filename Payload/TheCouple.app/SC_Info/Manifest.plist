@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/TheCouple.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/AdFitSDK.framework/SC_Info/AdFitSDK.sinf</string>
+		<string>Frameworks/Alamofire.framework/SC_Info/Alamofire.sinf</string>
+		<string>Frameworks/AlignedCollectionViewFlowLayout.framework/SC_Info/AlignedCollectionViewFlowLayout.sinf</string>
+		<string>Frameworks/AppAuth.framework/SC_Info/AppAuth.sinf</string>
+		<string>Frameworks/AssetsPickerViewController.framework/SC_Info/AssetsPickerViewController.sinf</string>
+		<string>Frameworks/Atributika.framework/SC_Info/Atributika.sinf</string>
+		<string>Frameworks/BetterCodable.framework/SC_Info/BetterCodable.sinf</string>
+		<string>Frameworks/BiometricAuthentication.framework/SC_Info/BiometricAuthentication.sinf</string>
+		<string>Frameworks/BrowserActivity.framework/SC_Info/BrowserActivity.sinf</string>
+		<string>Frameworks/CodableFirebase.framework/SC_Info/CodableFirebase.sinf</string>
+		<string>Frameworks/CropViewController.framework/SC_Info/CropViewController.sinf</string>
+		<string>Frameworks/DeepDiff.framework/SC_Info/DeepDiff.sinf</string>
+		<string>Frameworks/DefaultsKit.framework/SC_Info/DefaultsKit.sinf</string>
+		<string>Frameworks/Device.framework/SC_Info/Device.sinf</string>
+		<string>Frameworks/EmptyDataSet_Swift.framework/SC_Info/EmptyDataSet_Swift.sinf</string>
+		<string>Frameworks/FBAEMKit.framework/SC_Info/FBAEMKit.sinf</string>
+		<string>Frameworks/FBLPromises.framework/SC_Info/FBLPromises.sinf</string>
+		<string>Frameworks/FBSDKCoreKit.framework/SC_Info/FBSDKCoreKit.sinf</string>
+		<string>Frameworks/FBSDKCoreKit_Basics.framework/SC_Info/FBSDKCoreKit_Basics.sinf</string>
+		<string>Frameworks/FBSDKLoginKit.framework/SC_Info/FBSDKLoginKit.sinf</string>
+		<string>Frameworks/FBSDKShareKit.framework/SC_Info/FBSDKShareKit.sinf</string>
+		<string>Frameworks/FirebaseABTesting.framework/SC_Info/FirebaseABTesting.sinf</string>
+		<string>Frameworks/FirebaseAppCheckInterop.framework/SC_Info/FirebaseAppCheckInterop.sinf</string>
+		<string>Frameworks/FirebaseAuth.framework/SC_Info/FirebaseAuth.sinf</string>
+		<string>Frameworks/FirebaseAuthInterop.framework/SC_Info/FirebaseAuthInterop.sinf</string>
+		<string>Frameworks/FirebaseCore.framework/SC_Info/FirebaseCore.sinf</string>
+		<string>Frameworks/FirebaseCoreExtension.framework/SC_Info/FirebaseCoreExtension.sinf</string>
+		<string>Frameworks/FirebaseCoreInternal.framework/SC_Info/FirebaseCoreInternal.sinf</string>
+		<string>Frameworks/FirebaseCrashlytics.framework/SC_Info/FirebaseCrashlytics.sinf</string>
+		<string>Frameworks/FirebaseDynamicLinks.framework/SC_Info/FirebaseDynamicLinks.sinf</string>
+		<string>Frameworks/FirebaseFirestore.framework/SC_Info/FirebaseFirestore.sinf</string>
+		<string>Frameworks/FirebaseInstallations.framework/SC_Info/FirebaseInstallations.sinf</string>
+		<string>Frameworks/FirebaseMessaging.framework/SC_Info/FirebaseMessaging.sinf</string>
+		<string>Frameworks/FirebaseRemoteConfig.framework/SC_Info/FirebaseRemoteConfig.sinf</string>
+		<string>Frameworks/FirebaseStorage.framework/SC_Info/FirebaseStorage.sinf</string>
+		<string>Frameworks/GTMAppAuth.framework/SC_Info/GTMAppAuth.sinf</string>
+		<string>Frameworks/GTMSessionFetcher.framework/SC_Info/GTMSessionFetcher.sinf</string>
+		<string>Frameworks/GoogleDataTransport.framework/SC_Info/GoogleDataTransport.sinf</string>
+		<string>Frameworks/GoogleSignIn.framework/SC_Info/GoogleSignIn.sinf</string>
+		<string>Frameworks/GoogleUtilities.framework/SC_Info/GoogleUtilities.sinf</string>
+		<string>Frameworks/JLKit_Swift.framework/SC_Info/JLKit_Swift.sinf</string>
+		<string>Frameworks/KSToastView.framework/SC_Info/KSToastView.sinf</string>
+		<string>Frameworks/KakaoSDKAuth.framework/SC_Info/KakaoSDKAuth.sinf</string>
+		<string>Frameworks/KakaoSDKCommon.framework/SC_Info/KakaoSDKCommon.sinf</string>
+		<string>Frameworks/KakaoSDKShare.framework/SC_Info/KakaoSDKShare.sinf</string>
+		<string>Frameworks/KakaoSDKTemplate.framework/SC_Info/KakaoSDKTemplate.sinf</string>
+		<string>Frameworks/KakaoSDKUser.framework/SC_Info/KakaoSDKUser.sinf</string>
+		<string>Frameworks/KeychainAccess.framework/SC_Info/KeychainAccess.sinf</string>
+		<string>Frameworks/Kingfisher.framework/SC_Info/Kingfisher.sinf</string>
+		<string>Frameworks/Kronos.framework/SC_Info/Kronos.sinf</string>
+		<string>Frameworks/LNZCollectionLayouts.framework/SC_Info/LNZCollectionLayouts.sinf</string>
+		<string>Frameworks/LineSDK.framework/SC_Info/LineSDK.sinf</string>
+		<string>Frameworks/Lottie.framework/SC_Info/Lottie.sinf</string>
+		<string>Frameworks/MBProgressHUD.framework/SC_Info/MBProgressHUD.sinf</string>
+		<string>Frameworks/MDFInternationalization.framework/SC_Info/MDFInternationalization.sinf</string>
+		<string>Frameworks/MDFTextAccessibility.framework/SC_Info/MDFTextAccessibility.sinf</string>
+		<string>Frameworks/MaterialComponents.framework/SC_Info/MaterialComponents.sinf</string>
+		<string>Frameworks/Parchment.framework/SC_Info/Parchment.sinf</string>
+		<string>Frameworks/PhoneNumberKit.framework/SC_Info/PhoneNumberKit.sinf</string>
+		<string>Frameworks/Pulley.framework/SC_Info/Pulley.sinf</string>
+		<string>Frameworks/Reachability.framework/SC_Info/Reachability.sinf</string>
+		<string>Frameworks/RxAppState.framework/SC_Info/RxAppState.sinf</string>
+		<string>Frameworks/RxCocoa.framework/SC_Info/RxCocoa.sinf</string>
+		<string>Frameworks/RxGesture.framework/SC_Info/RxGesture.sinf</string>
+		<string>Frameworks/RxKeyboard.framework/SC_Info/RxKeyboard.sinf</string>
+		<string>Frameworks/RxOptional.framework/SC_Info/RxOptional.sinf</string>
+		<string>Frameworks/RxReachability.framework/SC_Info/RxReachability.sinf</string>
+		<string>Frameworks/RxRelay.framework/SC_Info/RxRelay.sinf</string>
+		<string>Frameworks/RxSwift.framework/SC_Info/RxSwift.sinf</string>
+		<string>Frameworks/SDWebImage.framework/SC_Info/SDWebImage.sinf</string>
+		<string>Frameworks/SDWebImageWebPCoder.framework/SC_Info/SDWebImageWebPCoder.sinf</string>
+		<string>Frameworks/SSZipArchive.framework/SC_Info/SSZipArchive.sinf</string>
+		<string>Frameworks/Schedule.framework/SC_Info/Schedule.sinf</string>
+		<string>Frameworks/SideMenuSwift.framework/SC_Info/SideMenuSwift.sinf</string>
+		<string>Frameworks/SnapKit.framework/SC_Info/SnapKit.sinf</string>
+		<string>Frameworks/SwiftDate.framework/SC_Info/SwiftDate.sinf</string>
+		<string>Frameworks/SwiftEntryKit.framework/SC_Info/SwiftEntryKit.sinf</string>
+		<string>Frameworks/SwiftyBeaver.framework/SC_Info/SwiftyBeaver.sinf</string>
+		<string>Frameworks/SwiftyJSON.framework/SC_Info/SwiftyJSON.sinf</string>
+		<string>Frameworks/SwiftyStoreKit.framework/SC_Info/SwiftyStoreKit.sinf</string>
+		<string>Frameworks/TDBAppearanceKit.framework/SC_Info/TDBAppearanceKit.sinf</string>
+		<string>Frameworks/TDBCalcKit.framework/SC_Info/TDBCalcKit.sinf</string>
+		<string>Frameworks/TDBFoundation.framework/SC_Info/TDBFoundation.sinf</string>
+		<string>Frameworks/TDBUIKit.framework/SC_Info/TDBUIKit.sinf</string>
+		<string>Frameworks/Then.framework/SC_Info/Then.sinf</string>
+		<string>Frameworks/UITextView_Placeholder.framework/SC_Info/UITextView_Placeholder.sinf</string>
+		<string>Frameworks/URLNavigator.framework/SC_Info/URLNavigator.sinf</string>
+		<string>Frameworks/XYUUID.framework/SC_Info/XYUUID.sinf</string>
+		<string>Frameworks/absl.framework/SC_Info/absl.sinf</string>
+		<string>Frameworks/grpc.framework/SC_Info/grpc.sinf</string>
+		<string>Frameworks/grpcpp.framework/SC_Info/grpcpp.sinf</string>
+		<string>Frameworks/leveldb.framework/SC_Info/leveldb.sinf</string>
+		<string>Frameworks/libwebp.framework/SC_Info/libwebp.sinf</string>
+		<string>Frameworks/nanopb.framework/SC_Info/nanopb.sinf</string>
+		<string>Frameworks/openssl_grpc.framework/SC_Info/openssl_grpc.sinf</string>
+		<string>Frameworks/uv.framework/SC_Info/uv.sinf</string>
+		<string>PlugIns/LockscreenWidget.appex/SC_Info/LockscreenWidget.sinf</string>
+		<string>PlugIns/Notification Service.appex/SC_Info/Notification Service.sinf</string>
+		<string>PlugIns/Widget Extension.appex/SC_Info/Widget Extension.sinf</string>
+		<string>PlugIns/Widget lententHandler.appex/SC_Info/Widget lententHandler.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/BetterCodable.framework/SC_Info/BetterCodable.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/DefaultsKit.framework/SC_Info/DefaultsKit.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/JLKit_Swift.framework/SC_Info/JLKit_Swift.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/Kingfisher.framework/SC_Info/Kingfisher.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/SwiftDate.framework/SC_Info/SwiftDate.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/TDBAppearanceKit.framework/SC_Info/TDBAppearanceKit.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/TDBCalcKit.framework/SC_Info/TDBCalcKit.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/TDBFoundation.framework/SC_Info/TDBFoundation.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/Frameworks/Then.framework/SC_Info/Then.sinf</string>
+		<string>Watch/Watch.app/PlugIns/Watch Extension.appex/SC_Info/Watch Extension.sinf</string>
+		<string>SC_Info/TheCouple.sinf</string>
+	</array>
+</dict>
+</plist>

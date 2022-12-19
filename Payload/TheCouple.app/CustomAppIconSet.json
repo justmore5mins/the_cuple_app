@@ -1,0 +1,157 @@
+[
+  {
+    "type": "default",
+    "items": [
+      {
+        "name": "",
+        "price": 0,
+        "splash":{
+          "iconName":"img_splash_logo_normal",
+          "backgroundColor":"#FF7EB3",
+          "logoTintColor":"#FFFFFF"
+        },
+        "lockscreen":{
+            "backgroundColor": "Background",
+            "textColor": "Text",
+            "highlightedTextColor": "#F8F8F8",
+            "digitHighlightedColor": "#FF7EB3",
+            "digitBorderColor": "#FF7EB3"
+        }
+      },
+      {
+        "name": "ic_appicontheme_default2",
+        "price": 0,
+        "isLightStyleIcon": true,
+        "splash":{
+          "backgroundColor":"#FFFFFF",
+          "logoTintColor":"#E2E2E2"
+        },
+        "lockscreen":{
+            "backgroundColor": "Background",
+            "textColor": "Text",
+            "highlightedTextColor": "#F8F8F8",
+            "digitHighlightedColor": "#FF7EB3",
+            "digitBorderColor": "#FF7EB3"
+        }
+      },
+      {
+        "name": "ic_appicontheme_default_blue1",
+        "price": 0,
+        "splash":{
+          "iconName":"ic_logo_default_blue1",            
+          "backgroundColor":"#71C8FE",
+          "logoTintColor":"#FFFFFF"
+        },
+        "lockscreen":{
+            "backgroundColor": "Background",
+            "textColor": "Text",
+            "highlightedTextColor": "#F8F8F8",
+            "digitHighlightedColor": "#67C7FD",
+            "digitBorderColor": "#67C7FD"
+        }
+      },
+      {
+        "name": "ic_appicontheme_default_blue2",
+        "price": 0,
+        "isLightStyleIcon": true,
+        "splash":{
+          "backgroundColor":"#FFFFFF",
+          "logoTintColor":"#E2E2E2"
+        },
+        "lockscreen":{
+            "backgroundColor": "Background",
+            "textColor": "Text",
+            "highlightedTextColor": "#F8F8F8",
+            "digitHighlightedColor": "#67C7FD",
+            "digitBorderColor": "#67C7FD"
+        }
+      }
+    ]
+  },
+  {
+    "type": "secret",
+    "items": [
+      {
+        "name": "ic_appicontheme_calculator",
+        "price": 1,
+        "splash":{
+          "iconName":"ic_logo_calculator",
+          "backgroundColor":"#343434",
+          "logoTintColor":"#FFFFFF"
+        },
+        "lockscreen":{
+            "backgroundColor": "#343434",
+            "textColor": "#FFFFFF",
+            "highlightedTextColor": "#FFFFFF",
+            "digitHighlightedColor": "#FF7D34",
+            "digitBorderColor": "#FFFFFF"
+        }
+      },
+      {
+        "name": "ic_appicontheme_calendar",
+        "price": 1,
+        "isLightStyleIcon": true,
+        "splash":{
+          "iconName":"ic_logo_calendar",
+          "backgroundColor":"#FF7EA3",
+          "logoTintColor":"#FFFFFF"
+        },
+        "lockscreen":{
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "highlightedTextColor": "#FFFFFF",
+            "digitHighlightedColor": "#FF7EA3",
+            "digitBorderColor": "#000000"
+        }
+      },
+      {
+        "name": "ic_appicontheme_dictionary",
+        "price": 1,
+        "splash":{
+          "iconName":"ic_logo_dictionary",
+          "backgroundColor":"#FFFFFF",
+          "logoTintColor":"#E2E2E2"
+        },
+        "lockscreen":{
+            "backgroundColor": "#75E362",
+            "textColor": "#FFFFFF",
+            "highlightedTextColor": "#75E362",
+            "digitHighlightedColor": "#FFFFFF",
+            "digitBorderColor": "#FFFFFF"
+        }
+      },
+      {
+        "name": "ic_appicontheme_stopwatch",
+        "price": 1,
+        "splash":{
+          "iconName":"ic_logo_stopwatch",
+          "backgroundColor":"#FF7EA3",
+          "logoTintColor":"#FFFFFF"
+        },
+        "lockscreen":{
+            "backgroundColor": "#FF7EA3",
+            "textColor": "#FFFFFF",
+            "highlightedTextColor": "#FF7EA3",
+            "digitHighlightedColor": "#FFFFFF",
+            "digitBorderColor": "#FFFFFF"
+        }
+      },
+      {
+        "name": "ic_appicontheme_weather",
+        "price": 1,
+        "splash":{
+          "iconName":"ic_logo_weather",
+          "backgroundColor":"#08A3E8",
+          "logoTintColor":"#FFFFFF"
+        },
+        "lockscreen":{
+            "backgroundColor": "#08A3E8",
+            "textColor": "#FFFFFF",
+            "highlightedTextColor": "#FFFFFF",
+            "digitHighlightedColor": "#F9C92A",
+            "digitBorderColor": "#FFFFFF"
+        }
+      }
+    ]
+  }
+]
